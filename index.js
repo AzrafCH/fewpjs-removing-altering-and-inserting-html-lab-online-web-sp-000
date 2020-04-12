@@ -5,4 +5,4 @@ element.remove();
 
 let newHeader = document.querySelector('h1#victory');
 
-newHeader.innerHTML = "Azraf-Chowdhury is the champion";
+newHeader.innerHTML = "Azraf is the champion";
