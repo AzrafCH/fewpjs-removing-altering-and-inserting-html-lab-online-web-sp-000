@@ -1,2 +1,2 @@
 // Write your code here!
-main.removeChild(); 
+let element = document.getElementById('main')
